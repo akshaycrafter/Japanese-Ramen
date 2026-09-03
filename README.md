@@ -2,7 +2,7 @@
 
 A landing page concept for an intimate Japanese ramen-ya in Connaught Place, New Delhi.
 
-🔗 **Live:** [REPLACE_WITH_ACTUAL_URL]
+🔗 **Live:** https://miyabi-japanese-ramen.akshaycodecrafter.workers.dev/
 
 ## Preview
 
