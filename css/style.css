@@ -1,5 +1,5 @@
 /* =========================================================
-   Miyabi — main.css (tokens, reset, type, layout)
+   Miyabi — style.css (tokens, reset, type, layout)
    ========================================================= */
 :root {
   --bg:           #080a0e;
@@ -119,7 +119,7 @@ p  { margin: 0; color: var(--text-soft); }
 }
 
 /* =========================================================
-   Miyabi — components.css (nav, hero, cards, footer, etc)
+   Miyabi — style.css (nav, hero, cards, footer, etc)
    ========================================================= */
 .nav {
   position: fixed; top: 0; left: 0; right: 0; z-index: 100;
@@ -398,7 +398,7 @@ p  { margin: 0; color: var(--text-soft); }
 .faq__item[open] { background: rgba(24, 27, 34, 0.6);}
 .faq__item summary { list-style: none; cursor: pointer; padding: 24px 4px; display: flex; align-items: center; justify-content: space-between; gap: 24px; font-family: var(--font-disp); font-size: clamp(17px, 1.7vw, 22px); font-weight: 500; letter-spacing: -0.015em; color: var(--text); transition: color var(--t-base); }
 .faq__item summary::-webkit-details-marker { display: none; }
-.faq__item summary:hover { color: var(--accent-2); }
+.faq__item summary:hover { color: var(--accent); }
 .faq__icon { flex-shrink: 0; width: 32px; height: 32px; border: 1px solid var(--line); border-radius: 50%; position: relative; transition: border-color var(--t-base), transform var(--t-base) var(--ease-out); }
 .faq__icon::before, .faq__icon::after { content: ""; position: absolute; top: 50%; left: 50%; background: var(--text); transform: translate(-50%, -50%); transition: transform var(--t-base) var(--ease-out); }
 .faq__icon::before { width: 11px; height: 1.5px; }
@@ -449,7 +449,7 @@ p  { margin: 0; color: var(--text-soft); }
 }
 
 /* =========================================================
-   Miyabi — animations.css
+   Miyabi — style.css
    ========================================================= */
 .animate-fade-in { opacity: 0; animation: fadeIn 0.8s var(--ease-out) forwards; }
 .delay-100 { animation-delay: 0.1s; }
