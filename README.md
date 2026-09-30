@@ -45,7 +45,7 @@ I stuck with plain HTML/CSS/JS instead of a framework for the same reason as my 
 ## Running it locally
 
 ```
-Miyabi-Japanese-Ramen/
+Ramen-Restaurant/
 ├── index.html
 ├── css/
 │ └── style.css
