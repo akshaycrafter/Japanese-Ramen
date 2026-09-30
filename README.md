@@ -9,9 +9,9 @@ A landing page concept for an intimate Japanese ramen-ya in Connaught Place, New
 ## Preview
 
 ![Hero — dark landing page with the "Ramen." headline, a 40+ bowls served daily stat card and a kitchen favorites marquee](assets/preview-hero.png)
-![Menu — four-column dish grid with Unsplash photography](assets/preview-menu.png)
-![Dining — counter, table, and private room seating cards](assets/preview-dining.png)
-![Reserve — WhatsApp and phone booking section with blue ambient glow](assets/preview-reserve.png)
+![Menu — "Bowls that earn the wait." heading with a four-column grid of Tonkotsu, Shoyu, Miso and Tan Tan ramen cards](assets/preview-menu.png)
+![Dining — "Find a seat that fits the meal." with Counter, Table and Private Room seating cards](assets/preview-dining.png)
+![Reserve — "Save the seat." booking card with Book on WhatsApp and Call the shop buttons on a dark blue glow](assets/preview-reserve.png)
 
 ## About
 
