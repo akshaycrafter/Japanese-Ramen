@@ -8,7 +8,7 @@ A landing page concept for an intimate Japanese ramen-ya in Connaught Place, New
 
 ## Preview
 
-![Hero — dark, atmospheric landing page with ramen counter and live stats](assets/preview-hero.png)
+![Hero — dark landing page with the "Ramen." headline, a 40+ bowls served daily stat card and a kitchen favorites marquee](assets/preview-hero.png)
 ![Menu — four-column dish grid with Unsplash photography](assets/preview-menu.png)
 ![Dining — counter, table, and private room seating cards](assets/preview-dining.png)
 ![Reserve — WhatsApp and phone booking section with blue ambient glow](assets/preview-reserve.png)
