@@ -4,7 +4,7 @@ A landing page concept for an intimate Japanese ramen-ya in Connaught Place, New
 
 > **Demo concept.** Ramen Restaurant is a fictional restaurant created only to showcase web design and development work. The name, menu, prices, reviews, phone number, email, address and social links are illustrative and do not belong to any real business. Photography is sourced from Unsplash. Built by CodeX.
 
-🔗 **Live:** https://miyabi-japanese-ramen.akshaycodecrafter.workers.dev/
+🔗 **Live:** https://japanese-ramen.akshaycodecrafter.workers.dev/
 
 ## Preview
 
