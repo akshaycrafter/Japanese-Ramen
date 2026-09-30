@@ -1,5 +1,5 @@
 /* =========================================================
-   Miyabi — style.css (tokens, reset, type, layout)
+   Ramen Restaurant — style.css (tokens, reset, type, layout)
    ========================================================= */
 :root {
   --bg:           #080a0e;
@@ -119,7 +119,7 @@ p  { margin: 0; color: var(--text-soft); }
 }
 
 /* =========================================================
-   Miyabi — style.css (nav, hero, cards, footer, etc)
+   Ramen Restaurant — style.css (nav, hero, cards, footer, etc)
    ========================================================= */
 .nav {
   position: fixed; top: 0; left: 0; right: 0; z-index: 100;
@@ -449,7 +449,7 @@ p  { margin: 0; color: var(--text-soft); }
 }
 
 /* =========================================================
-   Miyabi — style.css
+   Ramen Restaurant — style.css
    ========================================================= */
 .animate-fade-in { opacity: 0; animation: fadeIn 0.8s var(--ease-out) forwards; }
 .delay-100 { animation-delay: 0.1s; }
@@ -562,7 +562,7 @@ p  { margin: 0; color: var(--text-soft); }
   .plan .btn { padding: 14px 20px; font-size: 14px; border-radius: 14px; }
   .pricing-note { font-size: 12px; margin-top: 24px; }
 
-  /* ---- Why Miyabi ---- */
+  /* ---- Why Ramen Restaurant ---- */
   .why-grid { border-radius: 16px; }
   .why-card { padding: 24px; }
   .why-card__num { font-size: 12px; }

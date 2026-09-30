@@ -1,6 +1,8 @@
-# Miyabi — Japanese Ramen & Kitchen
+# Ramen Restaurant — Japanese Ramen & Kitchen
 
 A landing page concept for an intimate Japanese ramen-ya in Connaught Place, New Delhi.
+
+> **Demo concept.** Ramen Restaurant is a fictional restaurant created only to showcase web design and development work. The name, menu, prices, reviews, phone number, email, address and social links are illustrative and do not belong to any real business. Photography is sourced from Unsplash. Built by CodeX.
 
 🔗 **Live:** https://miyabi-japanese-ramen.akshaycodecrafter.workers.dev/
 
@@ -13,7 +15,7 @@ A landing page concept for an intimate Japanese ramen-ya in Connaught Place, New
 
 ## About
 
-Miyabi started as a question I kept running into with ramen-shop websites: why do they either look like generic restaurant templates or overdo the "kawaii" aesthetic? I wanted something that felt closer to an actual late-night ramen counter — dim, warm, a little intimate — built around the idea of one kitchen and three broths done properly rather than a sprawling menu. The layout leans on dark tones, a subtle noise texture, and scroll-reveal animations to keep the focus on the food.
+Ramen Restaurant started as a question I kept running into with ramen-shop websites: why do they either look like generic restaurant templates or overdo the "kawaii" aesthetic? I wanted something that felt closer to an actual late-night ramen counter — dim, warm, a little intimate — built around the idea of one kitchen and three broths done properly rather than a sprawling menu. The layout leans on dark tones, a subtle noise texture, and scroll-reveal animations to keep the focus on the food.
 
 ## What's on the page
 
