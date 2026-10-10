@@ -484,7 +484,7 @@ p  { margin: 0; color: var(--text-soft); }
   .mobile-menu a { font-size: 24px; padding: 16px 0; }
 
   /* ---- Hero ---- */
-  .hero { min-height: auto !important; padding: 70px 0 30px !important; overflow: hidden !important; max-width: 100vw !important; }
+  .hero { min-height: auto !important; padding: 70px 0 30px !important; overflow: hidden !important; max-width: 100% !important; }
   .hero__container { padding: 0 16px !important; max-width: 100% !important; overflow: hidden !important; }
   .hero__grid-bg { display: none; }
   .hero__bg-image { opacity: 0.15; }
@@ -498,14 +498,18 @@ p  { margin: 0; color: var(--text-soft); }
   .hero__cta .btn--lg { font-size: 14px; padding: 14px 20px; width: 100%; justify-content: center; border-radius: 14px; }
   .hero-card { border-radius: 16px; max-width: 100% !important; width: 100% !important; }
   .hero-card__inner { padding: 20px !important; }
-  .hero-card--marquee { padding: 0; }
+  .hero-card--marquee { padding: 20px 0 0 0; }
   .hero-card__head { gap: 12px; margin-bottom: 16px; }
-  .hero-card__heading { padding: 0; margin-bottom: 12px; }
+  .hero-card__heading { padding: 0 18px; margin-bottom: 12px; }
   .hero-card__big { font-size: 24px; }
   .hero-card__label { font-size: 12px; }
   .hero-card__mini-stats { gap: 8px; margin-bottom: 14px; flex-wrap: wrap; }
   .mini-stat b { font-size: 16px; }
   .mini-stat span { font-size: 10px; }
+  .hero-card__marquee {
+    -webkit-mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+    mask-image: linear-gradient(to right, transparent, black 8%, black 92%, transparent);
+  }
   .hero-card__marquee-track { gap: 20px; padding: 8px 16px 16px; animation-duration: 30s; }
   .hero-card__marquee-track .brand svg { width: 16px; height: 16px; }
   .hero-card__marquee-track .brand-name { font-size: 12px; }
